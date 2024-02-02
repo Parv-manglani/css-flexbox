@@ -1,0 +1,2 @@
+display flex auto calculates the positions based on the style properties we assign.
+other display properties will be applied to only that element where as flex will control the positions of all the child elements.
